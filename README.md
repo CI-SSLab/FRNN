@@ -1,6 +1,6 @@
 # Fuzzy relational neural network (FRNN)
 
-This is a Tensorflow implementation of the following work \url(https://www.sciencedirect.com/science/article/pii/S0888613X0500054X)[FRNN]. It supports only 1D inputs.
+This is a Tensorflow 2 implementation of [FRNN](https://www.sciencedirect.com/science/article/pii/S0888613X0500054X). It supports only 1D inputs.
 
 ## Libraries
 
