@@ -13,7 +13,9 @@ This is a Tensorflow 2 implementation of [FRNN](https://www.sciencedirect.com/sc
 There is a train example and network build on iris dataset in `iris_classification.py`.
 
 
-## Cite
+## Citation
+
+If any part of our paper or code helps your work, please generouslly cite our work:
 
 ```
 @article{CIARAMELLA2006146,
